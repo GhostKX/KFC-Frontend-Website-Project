@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KFC Contact</title>
+    <link rel="stylesheet" href="../css/contact.css">
+</head>
+<body>
+    <nav class="navbar">
+		<!-- LOGO -->
+		<div class="logo"><img src="../images/kfc-logo.png" alt=""></div>
+		<!-- NAVIGATION MENU -->
+		<ul class="nav-links">
+		  <!-- USING CHECKBOX HACK -->
+		  <input type="checkbox" id="checkbox_toggle" />
+		  <label for="checkbox_toggle" class="hamburger">&#9776;</label>
+		  <!-- NAVIGATION MENUS -->
+		  <div class="menu">
+			<li><a href="../index.html">Home</a></li>
+			<li><a href="../html/staff.html">Staff</a></li>
+			<li><a href="../html/about.html">About</a></li>
+			<li class="services">
+			  <a href="../html/services.html">Services</a>
+			  <!-- DROPDOWN MENU -->
+			  <ul class="dropdown">
+				<li><a href="/">Delivery </a></li>
+				<li><a href="/">Branckes</a></li>
+				<li><a href="/">Coupons</a></li>
+				<li><a href="/">Prizes</a></li>
+				<li><a href="/">Map</a></li>
+			  </ul>
+			</li>
+			<li><a href="../html/prices.html">Prices</a></li>
+			<li><a href="../html/contact.html">Contact</a></li>
+		  </div>
+		</ul>
+	</nav>
+
+	<div class="background">
+		<div class="background-layer">
+			<figure class="text">
+				<img src="../images/contact3.png" alt="/">
+				<figcaption>Yunus-Abad dstr., Shahrisabz str., 1</figcaption>
+			</figure>
+			<figure class="text">
+				<img src="../images/contact4.png" alt="/">
+				<figcaption>Call center: (+998 71) 238 74 00</figcaption>
+			</figure>
+			<figure class="text">
+				<img src="../images/contact2.png" alt="/">
+				<figcaption>info@wiut.uz</figcaption>
+			</figure>
+		</div>
+	</div>
+	<div class="contact">
+		<form action="./contact.html">
+			<h3>Get in Touch</h3>
+			<!-- <label for="fname">First Name</label> -->
+			<input type="text" id="fname" name="fname"  placeholder="First Name" required >
+			<br>
+			<!-- <label for="lname">Last Name</label> -->
+			<input type="text" id="lname" name="lname" placeholder="Last Name" required minlength="4">
+			<br>
+			<!-- <label for="email">Email</label> -->
+			<input type="email" id="email" name="email" placeholder="Email" required>
+			<br>
+			<!-- <label for="phone">Phone</label> -->
+			<input type="text" id="phone" name="phone" placeholder="+998 (xx) xxx-xx-xx" required>
+			<br>
+			<!-- <label for="message">Message Us</label> -->
+			<textarea type="text" id="myText" rows="5" name="mtext" placeholder="How can we help you?" required></textarea>
+			<br>
+			<div id="success" style="display: none;">Your message is sent</div>
+			<div class="button">
+				<div class="click">
+					<button id="submit" type="submit" onclick="sendMail(); return false">Send</button>
+			
+				</div>
+				<div class="click">
+					<button id="clear" type="reset">Clear</button>
+				</div>
+			</div>
+			
+		</form>
+	</div>
+
+    
+
+	<footer class="footer">
+		<div class="footer-left">
+			<img src="../images/kfc.png" alt="">
+            <br>
+            <br>
+			<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
+				Earum exercitationem assumenda qui enim corporis! Incidunt,
+				esse exercitationem deserunt assumenda
+				minus accusamus ex modi quos, soluta neque earum quis velit odit!</p>
+			<br>
+			<div class="socials">
+				<a href=""><i class="fa fa-facebook"><img src="../images/facebook.png" alt=""></i></a>
+				<a href=""><i class="fa fa-twitter"><img src="../images/twitter.png" alt=""></i></a>
+				<a href=""><i class="fa fa-instagram"><img src="../images/instagram.png" alt=""></i></a>
+				<a href=""><i class="fa fa-youtube"><img src="../images/youtube.png" alt=""></i></a>
+				<a href=""><i class="fa fa-telegram"><img src="../images/telegram.png" alt=""></i></a>
+			</div>
+		</div>
+        <div class="footer-right">
+            <div class="footer-right-wrapper">
+                <h2>Product</h2>
+                <ul class="box">
+					<li><a href="">Blog</a></li>
+					<li><a href="">Pricing</a></li>
+					<li><a href="">Sales</a></li>
+					<li><a href="">Coupons</a></li>
+					<li><a href="">Branches</a></li>
+					<li><a href="">Certifications</a></li>
+					<li><a href="">Customer Service</a></li>
+				</ul>
+            </div>
+            <div class="footer-right-wrapper">
+                <h2>Address</h2>
+                <ul class="box">
+					<li><a href="">12, Istiqbol street</a></li>
+                    <li><a href="">100047</a></li>
+					<li><a href="">Westminster</a></li>
+					<li><a href="">Tashkent</a></li>
+					<li><a href="">Uzbekistan</a></li>
+				</ul>
+            </div>
+            <div class="footer-right-wrapper">
+                <h2>Contact Us</h2>
+                <ul class="box">
+					<li><a href="">wiut.uz</a></li>
+					<li><a href="">+998712387400 </a></li>
+					<li><a href="">+998712387444 </a></li>
+                    <li><a href="">+998712387445  </a></li>
+					<li><a href="">info@wiut.uz </a></li>
+				</ul>
+            </div>
+        </div>
+		<div class="footer-bottom">
+			<br>
+			<p>All Right reserved by &copy;conceptial 2022 Westminster International University in Tashkent, </p>
+			<br>
+			<p> This website was created to fulfill Web Technology module’s requirements and does not represent an actual company or service</p>
+		</div>
+	</footer>
+    
+	<script src="../js/contact.js"></script>
+</body>
+</html>
+
+    
+</body>
+</html>
