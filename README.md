@@ -1,4 +1,4 @@
-# KFC Uzbekistan - Frontend Web Project
+# KFC - Frontend Web Project
 
 ---
 
