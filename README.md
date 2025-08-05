@@ -1,4 +1,4 @@
-# <a href="https://global.kfc.com/" target="_blank"><img src="https://pngimg.com/uploads/kfc/kfc_PNG17.png" width="100" valign="middle"/></a>KFC Uzbekistan - Frontend Website 
+# <a href="https://global.kfc.com/" target="_blank"><img src="https://pngimg.com/uploads/kfc/kfc_PNG17.png" width="120" valign="middle"/></a>KFC Uzbekistan - Frontend Website 
 
 [![Website](https://img.shields.io/badge/Website-Live-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ghostkx.github.io/KFC-Frontend-Website-Project/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
