@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-Live-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ghostkx.github.io/KFC-Frontend-Website-Project/)
+[![Website](https://img.shields.io/badge/Website-Live-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kfc-frontend-website-project.vercel.app)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -191,7 +191,7 @@ Experience the taste of KFC Uzbekistan through this comprehensive frontend websi
 ## 🚀 Live Demo
 
 ### **🌐 Website Access**
-Visit the live website: **[KFC Uzbekistan Website](https://ghostkx.github.io/KFC-Frontend-Website-Project/)**
+Visit the live website: **[KFC Uzbekistan Website](https://kfc-frontend-website-project.vercel.app)**
 
 ### **📱 Mobile Testing**
 The website is fully tested on:
