@@ -1,13 +1,20 @@
-# <a href="https://global.kfc.com/" target="_blank"><img src="https://pngimg.com/uploads/kfc/kfc_PNG17.png" width="120" valign="middle"/></a>KFC Uzbekistan - Frontend Website 
-
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-Live-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kfc-frontend-website-project.vercel.app)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Responsive](https://img.shields.io/badge/Responsive-Design-4CAF50?style=for-the-badge&logo=responsive&logoColor=white)](https://web.dev/responsive-web-design-basics/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
+# <a href="https://global.kfc.com/" target="_blank"><img src="https://pngimg.com/uploads/kfc/kfc_PNG17.png" width="125" valign="middle"/></a>KFC Uzbekistan - Frontend Website
+
+[![Website](https://img.shields.io/badge/Website-Live-FF6B6B?logo=google-chrome&logoColor=white)](https://kfc-frontend-website-project.vercel.app)
+[![Deployed on](https://img.shields.io/badge/Deploy-Vercel-000000?logo=vercel&logoColor=white)](https://kfc-frontend-website-project.vercel.app)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Responsive Design](https://img.shields.io/badge/Responsive-Design-4CAF50)](https://web.dev/responsive-web-design-basics/)
+[![Mobile Friendly](https://img.shields.io/badge/Mobile-Friendly-3DDC84?logo=android&logoColor=white)](https://web.dev/responsive-web-design-basics/)
+[![Frontend](https://img.shields.io/badge/Project-Frontend-blue)](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/Introduction)
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-222222?logo=github&logoColor=white)](https://pages.github.com/)
+[![Status](https://img.shields.io/badge/Status-Active-4CAF50)](https://github.com/GhostKX/KFC-Frontend-Website-Project)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+[![Performance](https://img.shields.io/badge/Performance-Optimized-9C27B0)](https://web.dev/performance/)
+[![SEO](https://img.shields.io/badge/SEO-Friendly-0F9D58?logo=google&logoColor=white)](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
 
 **🌟 A fully responsive, multi-page frontend website showcasing KFC Uzbekistan with modern web technologies and engaging user experience! 🌟**
 
